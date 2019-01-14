@@ -1,6 +1,6 @@
 # Math 5610 Computational Linear Algebra
 
-This repository contains the homework and software manual done by Alexis Whiting.
+This repository contains the homework and software manual done by Alexis Whiting for Math 5610. 
 
 ### Links for content for Math 5610:
 
